@@ -1,1 +1,1 @@
-# BasicGitFlow
+# GitLabFlow
